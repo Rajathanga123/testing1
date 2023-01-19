@@ -1,0 +1,56 @@
+
+.container{
+
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.container input{
+
+    height: 25px;
+    width: 220px;
+    margin: 0 15px;
+}
+
+.container button{
+
+    height: 30px;
+    width: 50px;
+    background-color: #021122;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.list ul li{
+
+    list-style-type: none;
+    margin: 0 0 20px;
+}
+
+.list{
+    margin-left: 120px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.container button:hover{
+    background-color:lightseagreen;
+}
+
+.list button{
+    background-color: white;
+    border: none;
+    color: blue;
+    font-weight: bold;
+    height: 20px;
+    font-size: 16px;
+    
+}
+
+.list div{
+
+    margin-left: 250px;
+    margin-top: -25px;
+}
